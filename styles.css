@@ -1,0 +1,124 @@
+
+h1 {
+    background-color: #f5f5f5;
+    color: blue;
+}
+
+.fcc-btn {
+  background-color: #199319;
+  color: white;
+}
+.fcc-btn {
+  background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+}
+.fcc-btn {
+  background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+.fcc-btn:hover {
+  background-color: #223094;
+}
+
+img {
+  border-radius: 8px;
+}
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {width: 100%}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+#lista1 ul {
+   list-style:none;
+}
+
+#lista1 ul li {
+   font-family:Georgia,serif,Times;
+   font-size:18px;
+}
+
+#lista1 ul li a {
+   display:block;
+   width:300px;
+   height:28px;
+   background-color:#333;
+   border-left:5px solid #222;
+   border-right:5px solid #222;
+   padding-left:10px;
+   text-decoration:none;
+   color:#bfe1f1;
+}
+
+#lista1 ul li a:hover {
+   -moz-transform:rotate(-5deg);
+   -moz-box-shadow:10px 10px 20px #000000;
+   -webkit-transform:rotate(-5deg);
+   -webkit-box-shadow:10px 10px 20px #000000;
+   transform:rotate(4deg); box-shadow:10px 10px 20px #000000;
+   margin-left: 10px;
+}
+
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/marron-beige-crema-claro-lujo-abstracto-como-fondo-modelo-textura-seda-algodon_1258-71591.jpg?w=2000)
+}
+p.grande {font-size: large;
+}
+p.monos {font-family: monospace;
+}
+p.vtr {font-size: 23px;
+}
+h2 {
+  color:#0d5555;
+}
+h3 {
+  color: green;
+}
+
+.special {
+  color: green;
+}
+
+ol.c {list-style-type: upper-roman;
+}
+ul.d {list-style-type: lower-alpha;
+}
+margin: 1em;
+
+h1 {
+  text-decoration: overline;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+font-weight: normal;
+
+img + p {
+  font-weight: bold;
+}
+
+li.spacious.elegant {
+  margin: 2em;
+}
+
+span {
+  border: red 2px solid;
+}
+div {
+  border: red 2px solid;
+}
+
+ol li { color: red;
+}
